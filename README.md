@@ -32,7 +32,7 @@ E-commerce store that enables a user to add and delete items to a persistent sho
 - Redux
 - Bootstrap
 
-## Author
+## Developer
 
 [Christopher Najafi](https://www.chrisnajafi.com/)
 
